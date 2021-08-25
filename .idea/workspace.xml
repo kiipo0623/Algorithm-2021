@@ -11,23 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1300ddbb-4a02-49eb-9b8d-5ac77f23bf6a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/0414/before_become1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0414/big_num.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0414/greedy_coin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0414/king_knight.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0414/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0414/num_card.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0414/time.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0414/updownleftright.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0415/game.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0415/maze_escape.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0415/water_ice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q8.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythontest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
