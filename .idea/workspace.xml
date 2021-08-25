@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1300ddbb-4a02-49eb-9b8d-5ac77f23bf6a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/0414/before_become1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0414/big_num.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0414/greedy_coin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0414/king_knight.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0414/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0414/num_card.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0414/time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0414/updownleftright.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0415/game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0415/maze_escape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0415/water_ice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q8.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1r5ZjYI1ImeTuZG2N3cITlp1WNH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/0422" />
+      <recent name="$PROJECT_DIR$/0416" />
+      <recent name="$PROJECT_DIR$/0415" />
+      <recent name="$PROJECT_DIR$/0414" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Q01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0710" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0710/Q01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="curriculum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curriculum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0415" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0415/game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="l3_거스름돈" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/l3_거스름돈.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="phonecall" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phonecall.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.l3_거스름돈" />
+        <item itemvalue="Python.phonecall" />
+        <item itemvalue="Python.curriculum" />
+        <item itemvalue="Python.game" />
+        <item itemvalue="Python.Q01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1300ddbb-4a02-49eb-9b8d-5ac77f23bf6a" name="Default Changelist" comment="" />
+      <created>1618268046188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618268046188</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="949" height="236" key="GridCell.Tab.0.bottom" timestamp="1629858896017">
+      <screen x="0" y="25" width="1792" height="1016" />
+    </state>
+    <state width="949" height="236" key="GridCell.Tab.0.bottom/0.25.1792.1016@0.25.1792.1016" timestamp="1629858896017" />
+    <state width="949" height="378" key="GridCell.Tab.0.bottom/0.25.1792.1017@0.25.1792.1017" timestamp="1629609414199" />
+    <state width="800" height="380" key="GridCell.Tab.0.bottom/0.25.1792.1020@0.25.1792.1020" timestamp="1628753111900" />
+    <state width="800" height="237" key="GridCell.Tab.0.bottom/0.25.1792.1023@0.25.1792.1023" timestamp="1629111269525" />
+    <state width="909" height="237" key="GridCell.Tab.0.bottom/0.25.1792.1024@0.25.1792.1024" timestamp="1627391655221" />
+    <state width="800" height="380" key="GridCell.Tab.0.bottom/0.25.1792.1030@0.25.1792.1030" timestamp="1629272946739" />
+    <state width="949" height="236" key="GridCell.Tab.0.center" timestamp="1629858896017">
+      <screen x="0" y="25" width="1792" height="1016" />
+    </state>
+    <state width="949" height="236" key="GridCell.Tab.0.center/0.25.1792.1016@0.25.1792.1016" timestamp="1629858896017" />
+    <state width="949" height="378" key="GridCell.Tab.0.center/0.25.1792.1017@0.25.1792.1017" timestamp="1629609414198" />
+    <state width="800" height="380" key="GridCell.Tab.0.center/0.25.1792.1020@0.25.1792.1020" timestamp="1628753111899" />
+    <state width="800" height="237" key="GridCell.Tab.0.center/0.25.1792.1023@0.25.1792.1023" timestamp="1629111269524" />
+    <state width="909" height="237" key="GridCell.Tab.0.center/0.25.1792.1024@0.25.1792.1024" timestamp="1627391655220" />
+    <state width="800" height="380" key="GridCell.Tab.0.center/0.25.1792.1030@0.25.1792.1030" timestamp="1629272946739" />
+    <state width="949" height="236" key="GridCell.Tab.0.left" timestamp="1629858896016">
+      <screen x="0" y="25" width="1792" height="1016" />
+    </state>
+    <state width="949" height="236" key="GridCell.Tab.0.left/0.25.1792.1016@0.25.1792.1016" timestamp="1629858896016" />
+    <state width="949" height="378" key="GridCell.Tab.0.left/0.25.1792.1017@0.25.1792.1017" timestamp="1629609414197" />
+    <state width="800" height="380" key="GridCell.Tab.0.left/0.25.1792.1020@0.25.1792.1020" timestamp="1628753111899" />
+    <state width="800" height="237" key="GridCell.Tab.0.left/0.25.1792.1023@0.25.1792.1023" timestamp="1629111269523" />
+    <state width="909" height="237" key="GridCell.Tab.0.left/0.25.1792.1024@0.25.1792.1024" timestamp="1627391655220" />
+    <state width="800" height="380" key="GridCell.Tab.0.left/0.25.1792.1030@0.25.1792.1030" timestamp="1629272946739" />
+    <state width="949" height="236" key="GridCell.Tab.0.right" timestamp="1629858896017">
+      <screen x="0" y="25" width="1792" height="1016" />
+    </state>
+    <state width="949" height="236" key="GridCell.Tab.0.right/0.25.1792.1016@0.25.1792.1016" timestamp="1629858896017" />
+    <state width="949" height="378" key="GridCell.Tab.0.right/0.25.1792.1017@0.25.1792.1017" timestamp="1629609414198" />
+    <state width="800" height="380" key="GridCell.Tab.0.right/0.25.1792.1020@0.25.1792.1020" timestamp="1628753111900" />
+    <state width="800" height="237" key="GridCell.Tab.0.right/0.25.1792.1023@0.25.1792.1023" timestamp="1629111269524" />
+    <state width="909" height="237" key="GridCell.Tab.0.right/0.25.1792.1024@0.25.1792.1024" timestamp="1627391655221" />
+    <state width="800" height="380" key="GridCell.Tab.0.right/0.25.1792.1030@0.25.1792.1030" timestamp="1629272946739" />
+    <state width="949" height="378" key="GridCell.Tab.1.bottom" timestamp="1629609414200">
+      <screen x="0" y="25" width="1792" height="1017" />
+    </state>
+    <state width="949" height="378" key="GridCell.Tab.1.bottom/0.25.1792.1016@0.25.1792.1016" timestamp="1629515056836" />
+    <state width="949" height="378" key="GridCell.Tab.1.bottom/0.25.1792.1017@0.25.1792.1017" timestamp="1629609414200" />
+    <state width="800" height="380" key="GridCell.Tab.1.bottom/0.25.1792.1020@0.25.1792.1020" timestamp="1628753111900" />
+    <state width="800" height="380" key="GridCell.Tab.1.bottom/0.25.1792.1023@0.25.1792.1023" timestamp="1629111031450" />
+    <state width="1289" height="348" key="GridCell.Tab.1.bottom/0.25.1792.1024@0.25.1792.1024" timestamp="1626183434923" />
+    <state width="800" height="380" key="GridCell.Tab.1.bottom/0.25.1792.1030@0.25.1792.1030" timestamp="1629272946740" />
+    <state width="949" height="378" key="GridCell.Tab.1.center" timestamp="1629609414199">
+      <screen x="0" y="25" width="1792" height="1017" />
+    </state>
+    <state width="949" height="378" key="GridCell.Tab.1.center/0.25.1792.1016@0.25.1792.1016" timestamp="1629515056835" />
+    <state width="949" height="378" key="GridCell.Tab.1.center/0.25.1792.1017@0.25.1792.1017" timestamp="1629609414199" />
+    <state width="800" height="380" key="GridCell.Tab.1.center/0.25.1792.1020@0.25.1792.1020" timestamp="1628753111900" />
+    <state width="800" height="380" key="GridCell.Tab.1.center/0.25.1792.1023@0.25.1792.1023" timestamp="1629111031449" />
+    <state width="1289" height="348" key="GridCell.Tab.1.center/0.25.1792.1024@0.25.1792.1024" timestamp="1626183434922" />
+    <state width="800" height="380" key="GridCell.Tab.1.center/0.25.1792.1030@0.25.1792.1030" timestamp="1629272946740" />
+    <state width="949" height="378" key="GridCell.Tab.1.left" timestamp="1629609414199">
+      <screen x="0" y="25" width="1792" height="1017" />
+    </state>
+    <state width="949" height="378" key="GridCell.Tab.1.left/0.25.1792.1016@0.25.1792.1016" timestamp="1629515056835" />
+    <state width="949" height="378" key="GridCell.Tab.1.left/0.25.1792.1017@0.25.1792.1017" timestamp="1629609414199" />
+    <state width="800" height="380" key="GridCell.Tab.1.left/0.25.1792.1020@0.25.1792.1020" timestamp="1628753111900" />
+    <state width="800" height="380" key="GridCell.Tab.1.left/0.25.1792.1023@0.25.1792.1023" timestamp="1629111031449" />
+    <state width="1289" height="348" key="GridCell.Tab.1.left/0.25.1792.1024@0.25.1792.1024" timestamp="1626183434922" />
+    <state width="800" height="380" key="GridCell.Tab.1.left/0.25.1792.1030@0.25.1792.1030" timestamp="1629272946740" />
+    <state width="949" height="378" key="GridCell.Tab.1.right" timestamp="1629609414199">
+      <screen x="0" y="25" width="1792" height="1017" />
+    </state>
+    <state width="949" height="378" key="GridCell.Tab.1.right/0.25.1792.1016@0.25.1792.1016" timestamp="1629515056836" />
+    <state width="949" height="378" key="GridCell.Tab.1.right/0.25.1792.1017@0.25.1792.1017" timestamp="1629609414199" />
+    <state width="800" height="380" key="GridCell.Tab.1.right/0.25.1792.1020@0.25.1792.1020" timestamp="1628753111900" />
+    <state width="800" height="380" key="GridCell.Tab.1.right/0.25.1792.1023@0.25.1792.1023" timestamp="1629111031450" />
+    <state width="1289" height="348" key="GridCell.Tab.1.right/0.25.1792.1024@0.25.1792.1024" timestamp="1626183434923" />
+    <state width="800" height="380" key="GridCell.Tab.1.right/0.25.1792.1030@0.25.1792.1030" timestamp="1629272946740" />
+    <state x="58" y="173" width="819" height="834" key="dock-window-1" timestamp="1628311327478">
+      <screen x="0" y="25" width="1792" height="1020" />
+    </state>
+    <state x="58" y="173" width="819" height="834" key="dock-window-1/0.25.1792.1020@0.25.1792.1020" timestamp="1628311327478" />
+    <state x="644" y="255" width="670" height="678" key="search.everywhere.popup" timestamp="1627629620915">
+      <screen x="0" y="25" width="1792" height="1020" />
+    </state>
+    <state x="644" y="255" width="670" height="678" key="search.everywhere.popup/0.25.1792.1020@0.25.1792.1020" timestamp="1627629620915" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0416/Q16.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0416/Q16.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/2.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/2.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="287" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="288" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="291" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/3.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/1.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/1.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="296" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/1.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/1.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/1.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/1.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/1.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="301" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/1.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="302" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/1.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/1.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/1.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/1.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/1.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="308" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/1.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="309" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/1.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="310" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/1.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/1.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="312" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/1.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/1.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="314" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <option name="timeStamp" value="315" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="318" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="319" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="322" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="323" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="324" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="325" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="326" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="327" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="328" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="329" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="330" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="331" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="335" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="336" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="337" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="338" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="339" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="341" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="342" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="343" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="344" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="345" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sumcoding/2.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <option name="timeStamp" value="438" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="439" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="469" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="470" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="471" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="472" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="473" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="474" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="475" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="476" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="477" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="478" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="479" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="480" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="481" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="482" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="483" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="484" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="486" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="487" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="490" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="491" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="492" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="493" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="494" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="495" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="496" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="497" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="498" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="500" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="501" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="502" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="503" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="504" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="505" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0710/Q01.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="506" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
