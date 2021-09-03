@@ -11,7 +11,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1300ddbb-4a02-49eb-9b8d-5ac77f23bf6a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pythontest.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythontest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0903/real number triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0903/review.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0903/way to school.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/N으로 표현.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythontest.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,29 +57,8 @@
       <recent name="$PROJECT_DIR$/0414" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="Q01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codingtest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0710" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0710/Q01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="curriculum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="N으로 표현" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,49 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curriculum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codingtest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0415" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0415/game.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="l3_거스름돈" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codingtest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/l3_거스름돈.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/N으로 표현.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +100,49 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="phonecall" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="real number triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0903" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0903/real number triangle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="review" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0903" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0903/review.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,7 +154,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phonecall.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="way to school" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0903" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0903/way to school.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.l3_거스름돈" />
-        <item itemvalue="Python.phonecall" />
-        <item itemvalue="Python.curriculum" />
-        <item itemvalue="Python.game" />
-        <item itemvalue="Python.Q01" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.way to school" />
+        <item itemvalue="Python.real number triangle" />
+        <item itemvalue="Python.review" />
+        <item itemvalue="Python.N으로 표현" />
       </list>
     </recent_temporary>
   </component>
@@ -211,82 +218,107 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="949" height="236" key="GridCell.Tab.0.bottom" timestamp="1629858896017">
-      <screen x="0" y="25" width="1792" height="1016" />
+    <state x="1030" y="339" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1630632067894">
+      <screen x="0" y="25" width="1792" height="1024" />
+    </state>
+    <state x="1030" y="339" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1792.1024@0.25.1792.1024" timestamp="1630632067894" />
+    <state width="1426" height="378" key="GridCell.Tab.0.bottom" timestamp="1630653942159">
+      <screen x="0" y="25" width="1792" height="1030" />
     </state>
     <state width="949" height="236" key="GridCell.Tab.0.bottom/0.25.1792.1016@0.25.1792.1016" timestamp="1629858896017" />
-    <state width="949" height="378" key="GridCell.Tab.0.bottom/0.25.1792.1017@0.25.1792.1017" timestamp="1629609414199" />
+    <state width="949" height="236" key="GridCell.Tab.0.bottom/0.25.1792.1017@0.25.1792.1017" timestamp="1629872094402" />
+    <state width="949" height="236" key="GridCell.Tab.0.bottom/0.25.1792.1019@0.25.1792.1019" timestamp="1629871118327" />
     <state width="800" height="380" key="GridCell.Tab.0.bottom/0.25.1792.1020@0.25.1792.1020" timestamp="1628753111900" />
-    <state width="800" height="237" key="GridCell.Tab.0.bottom/0.25.1792.1023@0.25.1792.1023" timestamp="1629111269525" />
-    <state width="909" height="237" key="GridCell.Tab.0.bottom/0.25.1792.1024@0.25.1792.1024" timestamp="1627391655221" />
-    <state width="800" height="380" key="GridCell.Tab.0.bottom/0.25.1792.1030@0.25.1792.1030" timestamp="1629272946739" />
-    <state width="949" height="236" key="GridCell.Tab.0.center" timestamp="1629858896017">
-      <screen x="0" y="25" width="1792" height="1016" />
+    <state width="1426" height="236" key="GridCell.Tab.0.bottom/0.25.1792.1023@0.25.1792.1023" timestamp="1630636661464" />
+    <state width="1426" height="378" key="GridCell.Tab.0.bottom/0.25.1792.1024@0.25.1792.1024" timestamp="1630636061756" />
+    <state width="1082" height="236" key="GridCell.Tab.0.bottom/0.25.1792.1026@0.25.1792.1026" timestamp="1630636004960" />
+    <state width="1426" height="236" key="GridCell.Tab.0.bottom/0.25.1792.1029@0.25.1792.1029" timestamp="1630653354269" />
+    <state width="1426" height="378" key="GridCell.Tab.0.bottom/0.25.1792.1030@0.25.1792.1030" timestamp="1630653942159" />
+    <state width="1426" height="236" key="GridCell.Tab.0.bottom/0.25.1792.1033@0.25.1792.1033" timestamp="1630647726059" />
+    <state width="1426" height="378" key="GridCell.Tab.0.center" timestamp="1630653942159">
+      <screen x="0" y="25" width="1792" height="1030" />
     </state>
     <state width="949" height="236" key="GridCell.Tab.0.center/0.25.1792.1016@0.25.1792.1016" timestamp="1629858896017" />
-    <state width="949" height="378" key="GridCell.Tab.0.center/0.25.1792.1017@0.25.1792.1017" timestamp="1629609414198" />
+    <state width="949" height="236" key="GridCell.Tab.0.center/0.25.1792.1017@0.25.1792.1017" timestamp="1629872094402" />
+    <state width="949" height="236" key="GridCell.Tab.0.center/0.25.1792.1019@0.25.1792.1019" timestamp="1629871118327" />
     <state width="800" height="380" key="GridCell.Tab.0.center/0.25.1792.1020@0.25.1792.1020" timestamp="1628753111899" />
-    <state width="800" height="237" key="GridCell.Tab.0.center/0.25.1792.1023@0.25.1792.1023" timestamp="1629111269524" />
-    <state width="909" height="237" key="GridCell.Tab.0.center/0.25.1792.1024@0.25.1792.1024" timestamp="1627391655220" />
-    <state width="800" height="380" key="GridCell.Tab.0.center/0.25.1792.1030@0.25.1792.1030" timestamp="1629272946739" />
-    <state width="949" height="236" key="GridCell.Tab.0.left" timestamp="1629858896016">
-      <screen x="0" y="25" width="1792" height="1016" />
+    <state width="1426" height="236" key="GridCell.Tab.0.center/0.25.1792.1023@0.25.1792.1023" timestamp="1630636661463" />
+    <state width="1426" height="378" key="GridCell.Tab.0.center/0.25.1792.1024@0.25.1792.1024" timestamp="1630636061756" />
+    <state width="1082" height="236" key="GridCell.Tab.0.center/0.25.1792.1026@0.25.1792.1026" timestamp="1630636004959" />
+    <state width="1426" height="236" key="GridCell.Tab.0.center/0.25.1792.1029@0.25.1792.1029" timestamp="1630653354268" />
+    <state width="1426" height="378" key="GridCell.Tab.0.center/0.25.1792.1030@0.25.1792.1030" timestamp="1630653942159" />
+    <state width="1426" height="236" key="GridCell.Tab.0.center/0.25.1792.1033@0.25.1792.1033" timestamp="1630647726059" />
+    <state width="1426" height="378" key="GridCell.Tab.0.left" timestamp="1630653942159">
+      <screen x="0" y="25" width="1792" height="1030" />
     </state>
     <state width="949" height="236" key="GridCell.Tab.0.left/0.25.1792.1016@0.25.1792.1016" timestamp="1629858896016" />
-    <state width="949" height="378" key="GridCell.Tab.0.left/0.25.1792.1017@0.25.1792.1017" timestamp="1629609414197" />
+    <state width="949" height="236" key="GridCell.Tab.0.left/0.25.1792.1017@0.25.1792.1017" timestamp="1629872094402" />
+    <state width="949" height="236" key="GridCell.Tab.0.left/0.25.1792.1019@0.25.1792.1019" timestamp="1629871118326" />
     <state width="800" height="380" key="GridCell.Tab.0.left/0.25.1792.1020@0.25.1792.1020" timestamp="1628753111899" />
-    <state width="800" height="237" key="GridCell.Tab.0.left/0.25.1792.1023@0.25.1792.1023" timestamp="1629111269523" />
-    <state width="909" height="237" key="GridCell.Tab.0.left/0.25.1792.1024@0.25.1792.1024" timestamp="1627391655220" />
-    <state width="800" height="380" key="GridCell.Tab.0.left/0.25.1792.1030@0.25.1792.1030" timestamp="1629272946739" />
-    <state width="949" height="236" key="GridCell.Tab.0.right" timestamp="1629858896017">
-      <screen x="0" y="25" width="1792" height="1016" />
+    <state width="1426" height="236" key="GridCell.Tab.0.left/0.25.1792.1023@0.25.1792.1023" timestamp="1630636661462" />
+    <state width="1426" height="378" key="GridCell.Tab.0.left/0.25.1792.1024@0.25.1792.1024" timestamp="1630636061756" />
+    <state width="1082" height="236" key="GridCell.Tab.0.left/0.25.1792.1026@0.25.1792.1026" timestamp="1630636004959" />
+    <state width="1426" height="236" key="GridCell.Tab.0.left/0.25.1792.1029@0.25.1792.1029" timestamp="1630653354268" />
+    <state width="1426" height="378" key="GridCell.Tab.0.left/0.25.1792.1030@0.25.1792.1030" timestamp="1630653942159" />
+    <state width="1426" height="236" key="GridCell.Tab.0.left/0.25.1792.1033@0.25.1792.1033" timestamp="1630647726058" />
+    <state width="1426" height="378" key="GridCell.Tab.0.right" timestamp="1630653942159">
+      <screen x="0" y="25" width="1792" height="1030" />
     </state>
     <state width="949" height="236" key="GridCell.Tab.0.right/0.25.1792.1016@0.25.1792.1016" timestamp="1629858896017" />
-    <state width="949" height="378" key="GridCell.Tab.0.right/0.25.1792.1017@0.25.1792.1017" timestamp="1629609414198" />
+    <state width="949" height="236" key="GridCell.Tab.0.right/0.25.1792.1017@0.25.1792.1017" timestamp="1629872094402" />
+    <state width="949" height="236" key="GridCell.Tab.0.right/0.25.1792.1019@0.25.1792.1019" timestamp="1629871118327" />
     <state width="800" height="380" key="GridCell.Tab.0.right/0.25.1792.1020@0.25.1792.1020" timestamp="1628753111900" />
-    <state width="800" height="237" key="GridCell.Tab.0.right/0.25.1792.1023@0.25.1792.1023" timestamp="1629111269524" />
-    <state width="909" height="237" key="GridCell.Tab.0.right/0.25.1792.1024@0.25.1792.1024" timestamp="1627391655221" />
-    <state width="800" height="380" key="GridCell.Tab.0.right/0.25.1792.1030@0.25.1792.1030" timestamp="1629272946739" />
-    <state width="949" height="378" key="GridCell.Tab.1.bottom" timestamp="1629609414200">
-      <screen x="0" y="25" width="1792" height="1017" />
+    <state width="1426" height="236" key="GridCell.Tab.0.right/0.25.1792.1023@0.25.1792.1023" timestamp="1630636661463" />
+    <state width="1426" height="378" key="GridCell.Tab.0.right/0.25.1792.1024@0.25.1792.1024" timestamp="1630636061756" />
+    <state width="1082" height="236" key="GridCell.Tab.0.right/0.25.1792.1026@0.25.1792.1026" timestamp="1630636004960" />
+    <state width="1426" height="236" key="GridCell.Tab.0.right/0.25.1792.1029@0.25.1792.1029" timestamp="1630653354269" />
+    <state width="1426" height="378" key="GridCell.Tab.0.right/0.25.1792.1030@0.25.1792.1030" timestamp="1630653942159" />
+    <state width="1426" height="236" key="GridCell.Tab.0.right/0.25.1792.1033@0.25.1792.1033" timestamp="1630647726059" />
+    <state width="1426" height="378" key="GridCell.Tab.1.bottom" timestamp="1630653942160">
+      <screen x="0" y="25" width="1792" height="1030" />
     </state>
     <state width="949" height="378" key="GridCell.Tab.1.bottom/0.25.1792.1016@0.25.1792.1016" timestamp="1629515056836" />
     <state width="949" height="378" key="GridCell.Tab.1.bottom/0.25.1792.1017@0.25.1792.1017" timestamp="1629609414200" />
     <state width="800" height="380" key="GridCell.Tab.1.bottom/0.25.1792.1020@0.25.1792.1020" timestamp="1628753111900" />
     <state width="800" height="380" key="GridCell.Tab.1.bottom/0.25.1792.1023@0.25.1792.1023" timestamp="1629111031450" />
-    <state width="1289" height="348" key="GridCell.Tab.1.bottom/0.25.1792.1024@0.25.1792.1024" timestamp="1626183434923" />
-    <state width="800" height="380" key="GridCell.Tab.1.bottom/0.25.1792.1030@0.25.1792.1030" timestamp="1629272946740" />
-    <state width="949" height="378" key="GridCell.Tab.1.center" timestamp="1629609414199">
-      <screen x="0" y="25" width="1792" height="1017" />
+    <state width="1426" height="378" key="GridCell.Tab.1.bottom/0.25.1792.1024@0.25.1792.1024" timestamp="1630636061757" />
+    <state width="1426" height="378" key="GridCell.Tab.1.bottom/0.25.1792.1030@0.25.1792.1030" timestamp="1630653942160" />
+    <state width="1426" height="378" key="GridCell.Tab.1.center" timestamp="1630653942159">
+      <screen x="0" y="25" width="1792" height="1030" />
     </state>
     <state width="949" height="378" key="GridCell.Tab.1.center/0.25.1792.1016@0.25.1792.1016" timestamp="1629515056835" />
     <state width="949" height="378" key="GridCell.Tab.1.center/0.25.1792.1017@0.25.1792.1017" timestamp="1629609414199" />
     <state width="800" height="380" key="GridCell.Tab.1.center/0.25.1792.1020@0.25.1792.1020" timestamp="1628753111900" />
     <state width="800" height="380" key="GridCell.Tab.1.center/0.25.1792.1023@0.25.1792.1023" timestamp="1629111031449" />
-    <state width="1289" height="348" key="GridCell.Tab.1.center/0.25.1792.1024@0.25.1792.1024" timestamp="1626183434922" />
-    <state width="800" height="380" key="GridCell.Tab.1.center/0.25.1792.1030@0.25.1792.1030" timestamp="1629272946740" />
-    <state width="949" height="378" key="GridCell.Tab.1.left" timestamp="1629609414199">
-      <screen x="0" y="25" width="1792" height="1017" />
+    <state width="1426" height="378" key="GridCell.Tab.1.center/0.25.1792.1024@0.25.1792.1024" timestamp="1630636061757" />
+    <state width="1426" height="378" key="GridCell.Tab.1.center/0.25.1792.1030@0.25.1792.1030" timestamp="1630653942159" />
+    <state width="1426" height="378" key="GridCell.Tab.1.left" timestamp="1630653942159">
+      <screen x="0" y="25" width="1792" height="1030" />
     </state>
     <state width="949" height="378" key="GridCell.Tab.1.left/0.25.1792.1016@0.25.1792.1016" timestamp="1629515056835" />
     <state width="949" height="378" key="GridCell.Tab.1.left/0.25.1792.1017@0.25.1792.1017" timestamp="1629609414199" />
     <state width="800" height="380" key="GridCell.Tab.1.left/0.25.1792.1020@0.25.1792.1020" timestamp="1628753111900" />
     <state width="800" height="380" key="GridCell.Tab.1.left/0.25.1792.1023@0.25.1792.1023" timestamp="1629111031449" />
-    <state width="1289" height="348" key="GridCell.Tab.1.left/0.25.1792.1024@0.25.1792.1024" timestamp="1626183434922" />
-    <state width="800" height="380" key="GridCell.Tab.1.left/0.25.1792.1030@0.25.1792.1030" timestamp="1629272946740" />
-    <state width="949" height="378" key="GridCell.Tab.1.right" timestamp="1629609414199">
-      <screen x="0" y="25" width="1792" height="1017" />
+    <state width="1426" height="378" key="GridCell.Tab.1.left/0.25.1792.1024@0.25.1792.1024" timestamp="1630636061757" />
+    <state width="1426" height="378" key="GridCell.Tab.1.left/0.25.1792.1030@0.25.1792.1030" timestamp="1630653942159" />
+    <state width="1426" height="378" key="GridCell.Tab.1.right" timestamp="1630653942160">
+      <screen x="0" y="25" width="1792" height="1030" />
     </state>
     <state width="949" height="378" key="GridCell.Tab.1.right/0.25.1792.1016@0.25.1792.1016" timestamp="1629515056836" />
     <state width="949" height="378" key="GridCell.Tab.1.right/0.25.1792.1017@0.25.1792.1017" timestamp="1629609414199" />
     <state width="800" height="380" key="GridCell.Tab.1.right/0.25.1792.1020@0.25.1792.1020" timestamp="1628753111900" />
     <state width="800" height="380" key="GridCell.Tab.1.right/0.25.1792.1023@0.25.1792.1023" timestamp="1629111031450" />
-    <state width="1289" height="348" key="GridCell.Tab.1.right/0.25.1792.1024@0.25.1792.1024" timestamp="1626183434923" />
-    <state width="800" height="380" key="GridCell.Tab.1.right/0.25.1792.1030@0.25.1792.1030" timestamp="1629272946740" />
+    <state width="1426" height="378" key="GridCell.Tab.1.right/0.25.1792.1024@0.25.1792.1024" timestamp="1630636061757" />
+    <state width="1426" height="378" key="GridCell.Tab.1.right/0.25.1792.1030@0.25.1792.1030" timestamp="1630653942160" />
     <state x="58" y="173" width="819" height="834" key="dock-window-1" timestamp="1628311327478">
       <screen x="0" y="25" width="1792" height="1020" />
     </state>
     <state x="58" y="173" width="819" height="834" key="dock-window-1/0.25.1792.1020@0.25.1792.1020" timestamp="1628311327478" />
+    <state x="1151" y="332" key="refactoring.ChangeSignatureDialog" timestamp="1630652807378">
+      <screen x="0" y="25" width="1792" height="1029" />
+    </state>
+    <state x="1151" y="328" key="refactoring.ChangeSignatureDialog/0.25.1792.1017@0.25.1792.1017" timestamp="1629871864127" />
+    <state x="1151" y="332" key="refactoring.ChangeSignatureDialog/0.25.1792.1029@0.25.1792.1029" timestamp="1630652807378" />
     <state x="644" y="255" width="670" height="678" key="search.everywhere.popup" timestamp="1627629620915">
       <screen x="0" y="25" width="1792" height="1020" />
     </state>
@@ -952,6 +984,180 @@
           <url>file://$PROJECT_DIR$/0710/Q01.py</url>
           <line>25</line>
           <option name="timeStamp" value="506" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/real number triangle.py</url>
+          <option name="timeStamp" value="529" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/real number triangle.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="530" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/real number triangle.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="531" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/real number triangle.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="532" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/real number triangle.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="533" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/real number triangle.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="535" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/real number triangle.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="536" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/real number triangle.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="537" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/real number triangle.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="538" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/real number triangle.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="539" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/real number triangle.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="540" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/real number triangle.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="541" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/way to school.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="542" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/way to school.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="543" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/way to school.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="544" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/way to school.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="546" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/way to school.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="547" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/way to school.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="549" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/way to school.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="550" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/way to school.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="552" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/way to school.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="553" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/way to school.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="554" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/way to school.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="555" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/way to school.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="556" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/way to school.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="557" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/way to school.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="558" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/way to school.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="559" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/way to school.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="560" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/way to school.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="561" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/way to school.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="562" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/way to school.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="563" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/way to school.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="564" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/way to school.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="566" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/way to school.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="569" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0903/way to school.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="570" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
