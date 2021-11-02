@@ -11,68 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1300ddbb-4a02-49eb-9b8d-5ac77f23bf6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0907/notfinishplayer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0907/thiefzil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0909/develop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0910/joystick.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0910/primefind.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0910/targetnumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0913/network.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0913/targetnumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0916/hide.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0916/travelroute.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0923/doublepriorityqueue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0923/hotthannow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0923/phonenumberlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0924/camoflag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0925/print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0926/immigration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0927/H-index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0927/bestalbum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0927/bridgetruck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0927/mockexam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0928/stockprice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0930/farrestnode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1001/carpet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1005/bridge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1005/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1005/room.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1007/p2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1008/mathexpmax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1008/mut_eval.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1008/mut_eval2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1012/mathexpmax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1012/puzzlepiecefill.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1015/jewelshop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1015/tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1017/notgooduser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1020/hotelroomdivide.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1020/racetrack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1021/caveadventure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1023/traffic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1025/toothbrush.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1025/toothbrush2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1026/key.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1026/key2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1029/newstr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1029/newstr2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1029/openchattingroom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kakao/pro1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kakao/pro3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kakao/prob2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/line/prgramming1backup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/line/programming1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/line/programming2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/line/programming6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naver/virus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naverfi/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naverfi/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naverfi/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naverfi/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naverfi/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sortingalgorithm/bubble_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1101/newsclustering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1101/taxi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1101/taxicarpoolfee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1102/shuttlebus.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/N으로 표현.py" beforeDir="false" afterPath="$PROJECT_DIR$/0916/N으로 표현.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,70 +56,7 @@
       <recent name="$PROJECT_DIR$/0414" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codingtest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/naverfi" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/naverfi/2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codingtest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/naverfi" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/naverfi/3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codingtest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/naverfi" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/naverfi/4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.shuttlebus">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="openchattingroom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="newsclustering" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1029" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1101" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1029/openchattingroom.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1101/newsclustering.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="shuttlebus" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,11 +107,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/naverfi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1102" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/naverfi/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1102/shuttlebus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="taxi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1101" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1101/taxi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="taxicarpoolfee" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1101" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1101/taxicarpoolfee.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.4" />
-        <item itemvalue="Python.3" />
-        <item itemvalue="Python.2" />
-        <item itemvalue="Python.openchattingroom" />
+        <item itemvalue="Python.shuttlebus" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.taxi" />
+        <item itemvalue="Python.taxicarpoolfee" />
+        <item itemvalue="Python.newsclustering" />
       </list>
     </recent_temporary>
   </component>
@@ -286,12 +229,12 @@
       <screen x="0" y="25" width="1792" height="1020" />
     </state>
     <state width="654" height="466" key="DebuggerActiveHint/0.25.1792.1020@0.25.1792.1020" timestamp="1634014076848" />
-    <state width="1347" height="241" key="GridCell.Tab.0.bottom" timestamp="1635663828607">
+    <state width="1135" height="241" key="GridCell.Tab.0.bottom" timestamp="1635821684971">
       <screen x="0" y="25" width="1792" height="1017" />
     </state>
     <state width="1073" height="282" key="GridCell.Tab.0.bottom/0.25.1792.1014@0.25.1792.1014" timestamp="1634800413883" />
     <state width="1460" height="236" key="GridCell.Tab.0.bottom/0.25.1792.1016@0.25.1792.1016" timestamp="1631234409590" />
-    <state width="1347" height="241" key="GridCell.Tab.0.bottom/0.25.1792.1017@0.25.1792.1017" timestamp="1635663828607" />
+    <state width="1135" height="241" key="GridCell.Tab.0.bottom/0.25.1792.1017@0.25.1792.1017" timestamp="1635821684971" />
     <state width="906" height="283" key="GridCell.Tab.0.bottom/0.25.1792.1019@0.25.1792.1019" timestamp="1634699947247" />
     <state width="981" height="216" key="GridCell.Tab.0.bottom/0.25.1792.1020@0.25.1792.1020" timestamp="1635303053508" />
     <state width="969" height="215" key="GridCell.Tab.0.bottom/0.25.1792.1021@0.25.1792.1021" timestamp="1635474087754" />
@@ -301,12 +244,12 @@
     <state width="1426" height="236" key="GridCell.Tab.0.bottom/0.25.1792.1029@0.25.1792.1029" timestamp="1630653354269" />
     <state width="1426" height="378" key="GridCell.Tab.0.bottom/0.25.1792.1030@0.25.1792.1030" timestamp="1630653942159" />
     <state width="1426" height="236" key="GridCell.Tab.0.bottom/0.25.1792.1033@0.25.1792.1033" timestamp="1630647726059" />
-    <state width="1347" height="241" key="GridCell.Tab.0.center" timestamp="1635663828607">
+    <state width="1135" height="241" key="GridCell.Tab.0.center" timestamp="1635821684971">
       <screen x="0" y="25" width="1792" height="1017" />
     </state>
     <state width="1073" height="282" key="GridCell.Tab.0.center/0.25.1792.1014@0.25.1792.1014" timestamp="1634800413882" />
     <state width="1460" height="236" key="GridCell.Tab.0.center/0.25.1792.1016@0.25.1792.1016" timestamp="1631234409589" />
-    <state width="1347" height="241" key="GridCell.Tab.0.center/0.25.1792.1017@0.25.1792.1017" timestamp="1635663828607" />
+    <state width="1135" height="241" key="GridCell.Tab.0.center/0.25.1792.1017@0.25.1792.1017" timestamp="1635821684971" />
     <state width="906" height="283" key="GridCell.Tab.0.center/0.25.1792.1019@0.25.1792.1019" timestamp="1634699947247" />
     <state width="981" height="216" key="GridCell.Tab.0.center/0.25.1792.1020@0.25.1792.1020" timestamp="1635303053507" />
     <state width="969" height="215" key="GridCell.Tab.0.center/0.25.1792.1021@0.25.1792.1021" timestamp="1635474087754" />
@@ -316,12 +259,12 @@
     <state width="1426" height="236" key="GridCell.Tab.0.center/0.25.1792.1029@0.25.1792.1029" timestamp="1630653354268" />
     <state width="1426" height="378" key="GridCell.Tab.0.center/0.25.1792.1030@0.25.1792.1030" timestamp="1630653942159" />
     <state width="1426" height="236" key="GridCell.Tab.0.center/0.25.1792.1033@0.25.1792.1033" timestamp="1630647726059" />
-    <state width="1347" height="241" key="GridCell.Tab.0.left" timestamp="1635663828606">
+    <state width="1135" height="241" key="GridCell.Tab.0.left" timestamp="1635821684971">
       <screen x="0" y="25" width="1792" height="1017" />
     </state>
     <state width="1073" height="282" key="GridCell.Tab.0.left/0.25.1792.1014@0.25.1792.1014" timestamp="1634800413882" />
     <state width="1460" height="236" key="GridCell.Tab.0.left/0.25.1792.1016@0.25.1792.1016" timestamp="1631234409589" />
-    <state width="1347" height="241" key="GridCell.Tab.0.left/0.25.1792.1017@0.25.1792.1017" timestamp="1635663828606" />
+    <state width="1135" height="241" key="GridCell.Tab.0.left/0.25.1792.1017@0.25.1792.1017" timestamp="1635821684971" />
     <state width="906" height="283" key="GridCell.Tab.0.left/0.25.1792.1019@0.25.1792.1019" timestamp="1634699947246" />
     <state width="981" height="216" key="GridCell.Tab.0.left/0.25.1792.1020@0.25.1792.1020" timestamp="1635303053507" />
     <state width="969" height="215" key="GridCell.Tab.0.left/0.25.1792.1021@0.25.1792.1021" timestamp="1635474087753" />
@@ -331,12 +274,12 @@
     <state width="1426" height="236" key="GridCell.Tab.0.left/0.25.1792.1029@0.25.1792.1029" timestamp="1630653354268" />
     <state width="1426" height="378" key="GridCell.Tab.0.left/0.25.1792.1030@0.25.1792.1030" timestamp="1630653942159" />
     <state width="1426" height="236" key="GridCell.Tab.0.left/0.25.1792.1033@0.25.1792.1033" timestamp="1630647726058" />
-    <state width="1347" height="241" key="GridCell.Tab.0.right" timestamp="1635663828607">
+    <state width="1135" height="241" key="GridCell.Tab.0.right" timestamp="1635821684971">
       <screen x="0" y="25" width="1792" height="1017" />
     </state>
     <state width="1073" height="282" key="GridCell.Tab.0.right/0.25.1792.1014@0.25.1792.1014" timestamp="1634800413883" />
     <state width="1460" height="236" key="GridCell.Tab.0.right/0.25.1792.1016@0.25.1792.1016" timestamp="1631234409590" />
-    <state width="1347" height="241" key="GridCell.Tab.0.right/0.25.1792.1017@0.25.1792.1017" timestamp="1635663828607" />
+    <state width="1135" height="241" key="GridCell.Tab.0.right/0.25.1792.1017@0.25.1792.1017" timestamp="1635821684971" />
     <state width="906" height="283" key="GridCell.Tab.0.right/0.25.1792.1019@0.25.1792.1019" timestamp="1634699947247" />
     <state width="981" height="216" key="GridCell.Tab.0.right/0.25.1792.1020@0.25.1792.1020" timestamp="1635303053508" />
     <state width="969" height="215" key="GridCell.Tab.0.right/0.25.1792.1021@0.25.1792.1021" timestamp="1635474087754" />
@@ -346,48 +289,48 @@
     <state width="1426" height="236" key="GridCell.Tab.0.right/0.25.1792.1029@0.25.1792.1029" timestamp="1630653354269" />
     <state width="1426" height="378" key="GridCell.Tab.0.right/0.25.1792.1030@0.25.1792.1030" timestamp="1630653942159" />
     <state width="1426" height="236" key="GridCell.Tab.0.right/0.25.1792.1033@0.25.1792.1033" timestamp="1630647726059" />
-    <state width="1347" height="241" key="GridCell.Tab.1.bottom" timestamp="1635663828608">
+    <state width="1135" height="241" key="GridCell.Tab.1.bottom" timestamp="1635821685330">
       <screen x="0" y="25" width="1792" height="1017" />
     </state>
     <state width="1073" height="282" key="GridCell.Tab.1.bottom/0.25.1792.1014@0.25.1792.1014" timestamp="1634800414200" />
     <state width="1052" height="378" key="GridCell.Tab.1.bottom/0.25.1792.1016@0.25.1792.1016" timestamp="1631223751022" />
-    <state width="1347" height="241" key="GridCell.Tab.1.bottom/0.25.1792.1017@0.25.1792.1017" timestamp="1635663828608" />
+    <state width="1135" height="241" key="GridCell.Tab.1.bottom/0.25.1792.1017@0.25.1792.1017" timestamp="1635821685330" />
     <state width="906" height="283" key="GridCell.Tab.1.bottom/0.25.1792.1019@0.25.1792.1019" timestamp="1634699947513" />
     <state width="981" height="242" key="GridCell.Tab.1.bottom/0.25.1792.1020@0.25.1792.1020" timestamp="1635149760578" />
     <state width="1257" height="283" key="GridCell.Tab.1.bottom/0.25.1792.1021@0.25.1792.1021" timestamp="1634719126232" />
     <state width="1257" height="283" key="GridCell.Tab.1.bottom/0.25.1792.1023@0.25.1792.1023" timestamp="1634718955763" />
     <state width="1234" height="373" key="GridCell.Tab.1.bottom/0.25.1792.1024@0.25.1792.1024" timestamp="1632754341039" />
     <state width="1426" height="378" key="GridCell.Tab.1.bottom/0.25.1792.1030@0.25.1792.1030" timestamp="1630653942160" />
-    <state width="1347" height="241" key="GridCell.Tab.1.center" timestamp="1635663828607">
+    <state width="1135" height="241" key="GridCell.Tab.1.center" timestamp="1635821685329">
       <screen x="0" y="25" width="1792" height="1017" />
     </state>
     <state width="1073" height="282" key="GridCell.Tab.1.center/0.25.1792.1014@0.25.1792.1014" timestamp="1634800414199" />
     <state width="1052" height="378" key="GridCell.Tab.1.center/0.25.1792.1016@0.25.1792.1016" timestamp="1631223751022" />
-    <state width="1347" height="241" key="GridCell.Tab.1.center/0.25.1792.1017@0.25.1792.1017" timestamp="1635663828607" />
+    <state width="1135" height="241" key="GridCell.Tab.1.center/0.25.1792.1017@0.25.1792.1017" timestamp="1635821685329" />
     <state width="906" height="283" key="GridCell.Tab.1.center/0.25.1792.1019@0.25.1792.1019" timestamp="1634699947512" />
     <state width="981" height="242" key="GridCell.Tab.1.center/0.25.1792.1020@0.25.1792.1020" timestamp="1635149760578" />
     <state width="1257" height="283" key="GridCell.Tab.1.center/0.25.1792.1021@0.25.1792.1021" timestamp="1634719126232" />
     <state width="1257" height="283" key="GridCell.Tab.1.center/0.25.1792.1023@0.25.1792.1023" timestamp="1634718955762" />
     <state width="1234" height="373" key="GridCell.Tab.1.center/0.25.1792.1024@0.25.1792.1024" timestamp="1632754341039" />
     <state width="1426" height="378" key="GridCell.Tab.1.center/0.25.1792.1030@0.25.1792.1030" timestamp="1630653942159" />
-    <state width="1347" height="241" key="GridCell.Tab.1.left" timestamp="1635663828607">
+    <state width="1135" height="241" key="GridCell.Tab.1.left" timestamp="1635821685328">
       <screen x="0" y="25" width="1792" height="1017" />
     </state>
     <state width="1073" height="282" key="GridCell.Tab.1.left/0.25.1792.1014@0.25.1792.1014" timestamp="1634800414199" />
     <state width="1052" height="378" key="GridCell.Tab.1.left/0.25.1792.1016@0.25.1792.1016" timestamp="1631223751022" />
-    <state width="1347" height="241" key="GridCell.Tab.1.left/0.25.1792.1017@0.25.1792.1017" timestamp="1635663828607" />
+    <state width="1135" height="241" key="GridCell.Tab.1.left/0.25.1792.1017@0.25.1792.1017" timestamp="1635821685328" />
     <state width="906" height="283" key="GridCell.Tab.1.left/0.25.1792.1019@0.25.1792.1019" timestamp="1634699947512" />
     <state width="981" height="242" key="GridCell.Tab.1.left/0.25.1792.1020@0.25.1792.1020" timestamp="1635149760578" />
     <state width="1257" height="283" key="GridCell.Tab.1.left/0.25.1792.1021@0.25.1792.1021" timestamp="1634719126232" />
     <state width="1257" height="283" key="GridCell.Tab.1.left/0.25.1792.1023@0.25.1792.1023" timestamp="1634718955762" />
     <state width="1234" height="373" key="GridCell.Tab.1.left/0.25.1792.1024@0.25.1792.1024" timestamp="1632754341039" />
     <state width="1426" height="378" key="GridCell.Tab.1.left/0.25.1792.1030@0.25.1792.1030" timestamp="1630653942159" />
-    <state width="1347" height="241" key="GridCell.Tab.1.right" timestamp="1635663828607">
+    <state width="1135" height="241" key="GridCell.Tab.1.right" timestamp="1635821685329">
       <screen x="0" y="25" width="1792" height="1017" />
     </state>
     <state width="1073" height="282" key="GridCell.Tab.1.right/0.25.1792.1014@0.25.1792.1014" timestamp="1634800414200" />
     <state width="1052" height="378" key="GridCell.Tab.1.right/0.25.1792.1016@0.25.1792.1016" timestamp="1631223751022" />
-    <state width="1347" height="241" key="GridCell.Tab.1.right/0.25.1792.1017@0.25.1792.1017" timestamp="1635663828607" />
+    <state width="1135" height="241" key="GridCell.Tab.1.right/0.25.1792.1017@0.25.1792.1017" timestamp="1635821685329" />
     <state width="906" height="283" key="GridCell.Tab.1.right/0.25.1792.1019@0.25.1792.1019" timestamp="1634699947513" />
     <state width="981" height="242" key="GridCell.Tab.1.right/0.25.1792.1020@0.25.1792.1020" timestamp="1635149760578" />
     <state width="1257" height="283" key="GridCell.Tab.1.right/0.25.1792.1021@0.25.1792.1021" timestamp="1634719126232" />
@@ -410,10 +353,11 @@
     </state>
     <state x="1151" y="328" key="refactoring.ChangeSignatureDialog/0.25.1792.1017@0.25.1792.1017" timestamp="1629871864127" />
     <state x="1151" y="332" key="refactoring.ChangeSignatureDialog/0.25.1792.1029@0.25.1792.1029" timestamp="1630652807378" />
-    <state x="644" y="255" width="670" height="678" key="search.everywhere.popup" timestamp="1635137039969">
-      <screen x="0" y="25" width="1792" height="1020" />
+    <state x="644" y="254" width="670" height="677" key="search.everywhere.popup" timestamp="1635748054853">
+      <screen x="0" y="25" width="1792" height="1017" />
     </state>
     <state x="644" y="254" width="670" height="676" key="search.everywhere.popup/0.25.1792.1016@0.25.1792.1016" timestamp="1631000542812" />
+    <state x="644" y="254" width="670" height="677" key="search.everywhere.popup/0.25.1792.1017@0.25.1792.1017" timestamp="1635748054853" />
     <state x="644" y="255" width="670" height="678" key="search.everywhere.popup/0.25.1792.1019@0.25.1792.1019" timestamp="1634699942548" />
     <state x="644" y="255" width="670" height="678" key="search.everywhere.popup/0.25.1792.1020@0.25.1792.1020" timestamp="1635137039969" />
     <state x="644" y="255" width="670" height="680" key="search.everywhere.popup/0.25.1792.1021@0.25.1792.1021" timestamp="1634700474186" />
@@ -3409,6 +3353,96 @@
           <url>file://$PROJECT_DIR$/naverfi/4.py</url>
           <line>22</line>
           <option name="timeStamp" value="1556" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1101/taxicarpoolfee.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1557" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1101/taxicarpoolfee.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1558" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1101/taxicarpoolfee.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1559" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1101/taxicarpoolfee.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1560" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1101/taxicarpoolfee.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1561" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1101/taxicarpoolfee.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="1562" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1101/taxicarpoolfee.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="1563" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1101/taxicarpoolfee.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="1564" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1101/taxicarpoolfee.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1565" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1101/taxicarpoolfee.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1566" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1101/taxicarpoolfee.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="1567" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1101/taxicarpoolfee.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="1568" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1101/taxicarpoolfee.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="1569" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1101/taxicarpoolfee.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="1570" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1102/shuttlebus.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="1572" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1102/shuttlebus.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="1573" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1102/shuttlebus.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="1574" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1102/shuttlebus.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="1575" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
