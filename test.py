@@ -1,23 +1,46 @@
-def solution(n, t, m, timetable):
-    timetable = [int(time[:2])*60 + int(time[3:]) for time in timetable]
-    timetable.sort()
-    last_time = (60 * 9) + (n-1) * t # 마지막 배차의 시간표 (분단위)
+def str2int(string):
+    hour, minute, second = string.split(':')
+    return int(hour) * 3600 + int(minute) * 60 + int(second)
 
-    # 배차 횟수만큼 반복
-    for i in range(n):
-        # timetable의 길이가 한면 번에 태울 수 있는 인원보다 적으
-        if len(timetable) < m:
-            return '%02d:%02d' % (last_time // 60, last_time % 60)
 
-        # 마지막 배차의 경우
-        if i == n-1:
-            # timetable에 마지막 배차 때 우선순위가 높은 크루가 있다면
-           if timetable[0] <= last_time:
-               # 마지막 탑승자보다 1초 빠르게
-               last_time = timetable[m-1] - 1
-               return '%02d:%02d' % (last_time // 60, last_time % 60)
-           # del로 인한 index 변화에 영향을 주지 않게 위해서 거꾸로 반복
-           for j in range(m-1, -1, -1, -1):
-               bus_arrive = (60 * 9) + i * t
-               if timetable[j] <= bus_arrive:
-                   del timetable[j]
+def int2str(time):
+    hour = str(time // 3600).zfill(2)
+    time = time % 3600
+    minute = str(time // 60).zfill(2)
+    second = str(time % 60).zfill(2)
+    return hour + ':' + minute + ':' + second
+
+
+def solution(play_time, adv_time, logs):
+    play_time = str2int(play_time)
+    adv_time = str2int(adv_time)
+    all_time = [0 for _ in range(len(play_time) + 1)]
+
+    for log in logs:
+        start, end = log.split('-')
+        start = str2int(start)
+        end = str2int(end)
+        all_time[start] += 1
+        all_time[end] -= 1
+
+    maxtime = 0
+    starttime = 0
+
+    for i in range(1, len(all_time)):
+        all_time[i] = all_time[i] + all_time[i - 1]
+
+    for i in range(1, len(all_time)):
+        all_time[i] = all_time[i] + all_time[i - 1]
+
+    for i in range(adv_time - 1, play_time):
+        if adv_time >= i:
+            if all_time[i] - all_time[i - adv_time] > maxtime:
+                maxtime = all_time[i] - all_time[i - adv_time]
+                starttime = i - adv_time + 1
+
+        else:
+            if all_time[i] > maxtime:
+                maxtime = all_time[i]
+                starttime = i - adv_time + 1
+
+    return str2int(starttime)
