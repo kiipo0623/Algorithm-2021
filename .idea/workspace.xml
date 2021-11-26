@@ -11,8 +11,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1300ddbb-4a02-49eb-9b8d-5ac77f23bf6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1112/chartmodify.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1112/chartmodify2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1113/backup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1113/pillaranddam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1115/escape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1118/wayfindgame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1119/cardpair.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1120/number124.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1120/pairing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1122/matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1122/menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1125/gamemap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1125/light.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pg/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pg/2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
@@ -54,8 +65,8 @@
       <recent name="$PROJECT_DIR$/0414" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.chartmodify">
-    <configuration name="ad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.gamemap">
+    <configuration name="gamemap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1111" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1125" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1111/ad.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1125/gamemap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="chartmodify" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="light" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1112" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1125" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1112/chartmodify.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1125/light.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="muzi3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1109" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1122" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1109/muzi3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1122/matrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="muzi4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,11 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1109" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1122" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1109/muzi4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1122/number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="number124" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,11 +179,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1120" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1120/number124.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.chartmodify" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.ad" />
-        <item itemvalue="Python.muzi4" />
-        <item itemvalue="Python.muzi3" />
+        <item itemvalue="Python.gamemap" />
+        <item itemvalue="Python.light" />
+        <item itemvalue="Python.matrix" />
+        <item itemvalue="Python.number" />
+        <item itemvalue="Python.number124" />
       </list>
     </recent_temporary>
   </component>
@@ -215,6 +226,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="721" y="205" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636971425573">
+      <screen x="0" y="25" width="1792" height="1032" />
+    </state>
+    <state x="721" y="205" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1792.1032@0.25.1792.1032" timestamp="1636971425573" />
     <state x="1030" y="338" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1636694573170">
       <screen x="0" y="25" width="1792" height="1021" />
     </state>
@@ -229,80 +244,84 @@
       <screen x="0" y="25" width="1792" height="1020" />
     </state>
     <state width="654" height="466" key="DebuggerActiveHint/0.25.1792.1020@0.25.1792.1020" timestamp="1634014076848" />
-    <state width="1454" height="321" key="GridCell.Tab.0.bottom" timestamp="1636723403119">
-      <screen x="0" y="25" width="1792" height="1021" />
+    <state width="989" height="317" key="GridCell.Tab.0.bottom" timestamp="1637807447551">
+      <screen x="0" y="25" width="1792" height="1032" />
     </state>
     <state width="1073" height="282" key="GridCell.Tab.0.bottom/0.25.1792.1014@0.25.1792.1014" timestamp="1634800413883" />
     <state width="1460" height="236" key="GridCell.Tab.0.bottom/0.25.1792.1016@0.25.1792.1016" timestamp="1631234409590" />
     <state width="1444" height="241" key="GridCell.Tab.0.bottom/0.25.1792.1017@0.25.1792.1017" timestamp="1635981735334" />
     <state width="906" height="283" key="GridCell.Tab.0.bottom/0.25.1792.1019@0.25.1792.1019" timestamp="1634699947247" />
     <state width="981" height="216" key="GridCell.Tab.0.bottom/0.25.1792.1020@0.25.1792.1020" timestamp="1635303053508" />
-    <state width="1454" height="321" key="GridCell.Tab.0.bottom/0.25.1792.1021@0.25.1792.1021" timestamp="1636723403119" />
+    <state width="816" height="205" key="GridCell.Tab.0.bottom/0.25.1792.1021@0.25.1792.1021" timestamp="1636775682645" />
     <state width="1257" height="283" key="GridCell.Tab.0.bottom/0.25.1792.1023@0.25.1792.1023" timestamp="1634718955762" />
     <state width="1246" height="205" key="GridCell.Tab.0.bottom/0.25.1792.1024@0.25.1792.1024" timestamp="1636616675166" />
     <state width="1082" height="236" key="GridCell.Tab.0.bottom/0.25.1792.1026@0.25.1792.1026" timestamp="1630636004960" />
     <state width="1426" height="236" key="GridCell.Tab.0.bottom/0.25.1792.1029@0.25.1792.1029" timestamp="1630653354269" />
     <state width="1426" height="378" key="GridCell.Tab.0.bottom/0.25.1792.1030@0.25.1792.1030" timestamp="1630653942159" />
+    <state width="989" height="317" key="GridCell.Tab.0.bottom/0.25.1792.1032@0.25.1792.1032" timestamp="1637807447551" />
     <state width="1426" height="236" key="GridCell.Tab.0.bottom/0.25.1792.1033@0.25.1792.1033" timestamp="1630647726059" />
     <state width="1273" height="208" key="GridCell.Tab.0.bottom/0.25.1792.1035@0.25.1792.1035" timestamp="1636181302690" />
     <state width="1273" height="321" key="GridCell.Tab.0.bottom/0.25.1792.1036@0.25.1792.1036" timestamp="1636182264049" />
     <state width="1273" height="208" key="GridCell.Tab.0.bottom/0.25.1792.1037@0.25.1792.1037" timestamp="1636171723716" />
-    <state width="1454" height="321" key="GridCell.Tab.0.center" timestamp="1636723403118">
-      <screen x="0" y="25" width="1792" height="1021" />
+    <state width="989" height="317" key="GridCell.Tab.0.center" timestamp="1637807447551">
+      <screen x="0" y="25" width="1792" height="1032" />
     </state>
     <state width="1073" height="282" key="GridCell.Tab.0.center/0.25.1792.1014@0.25.1792.1014" timestamp="1634800413882" />
     <state width="1460" height="236" key="GridCell.Tab.0.center/0.25.1792.1016@0.25.1792.1016" timestamp="1631234409589" />
     <state width="1444" height="241" key="GridCell.Tab.0.center/0.25.1792.1017@0.25.1792.1017" timestamp="1635981735333" />
     <state width="906" height="283" key="GridCell.Tab.0.center/0.25.1792.1019@0.25.1792.1019" timestamp="1634699947247" />
     <state width="981" height="216" key="GridCell.Tab.0.center/0.25.1792.1020@0.25.1792.1020" timestamp="1635303053507" />
-    <state width="1454" height="321" key="GridCell.Tab.0.center/0.25.1792.1021@0.25.1792.1021" timestamp="1636723403118" />
+    <state width="816" height="205" key="GridCell.Tab.0.center/0.25.1792.1021@0.25.1792.1021" timestamp="1636775682644" />
     <state width="1257" height="283" key="GridCell.Tab.0.center/0.25.1792.1023@0.25.1792.1023" timestamp="1634718955761" />
     <state width="1246" height="205" key="GridCell.Tab.0.center/0.25.1792.1024@0.25.1792.1024" timestamp="1636616675166" />
     <state width="1082" height="236" key="GridCell.Tab.0.center/0.25.1792.1026@0.25.1792.1026" timestamp="1630636004959" />
     <state width="1426" height="236" key="GridCell.Tab.0.center/0.25.1792.1029@0.25.1792.1029" timestamp="1630653354268" />
     <state width="1426" height="378" key="GridCell.Tab.0.center/0.25.1792.1030@0.25.1792.1030" timestamp="1630653942159" />
+    <state width="989" height="317" key="GridCell.Tab.0.center/0.25.1792.1032@0.25.1792.1032" timestamp="1637807447551" />
     <state width="1426" height="236" key="GridCell.Tab.0.center/0.25.1792.1033@0.25.1792.1033" timestamp="1630647726059" />
     <state width="1273" height="208" key="GridCell.Tab.0.center/0.25.1792.1035@0.25.1792.1035" timestamp="1636181302689" />
     <state width="1273" height="321" key="GridCell.Tab.0.center/0.25.1792.1036@0.25.1792.1036" timestamp="1636182264049" />
     <state width="1273" height="208" key="GridCell.Tab.0.center/0.25.1792.1037@0.25.1792.1037" timestamp="1636171723715" />
-    <state width="1454" height="321" key="GridCell.Tab.0.left" timestamp="1636723403118">
-      <screen x="0" y="25" width="1792" height="1021" />
+    <state width="989" height="317" key="GridCell.Tab.0.left" timestamp="1637807447551">
+      <screen x="0" y="25" width="1792" height="1032" />
     </state>
     <state width="1073" height="282" key="GridCell.Tab.0.left/0.25.1792.1014@0.25.1792.1014" timestamp="1634800413882" />
     <state width="1460" height="236" key="GridCell.Tab.0.left/0.25.1792.1016@0.25.1792.1016" timestamp="1631234409589" />
     <state width="1444" height="241" key="GridCell.Tab.0.left/0.25.1792.1017@0.25.1792.1017" timestamp="1635981735333" />
     <state width="906" height="283" key="GridCell.Tab.0.left/0.25.1792.1019@0.25.1792.1019" timestamp="1634699947246" />
     <state width="981" height="216" key="GridCell.Tab.0.left/0.25.1792.1020@0.25.1792.1020" timestamp="1635303053507" />
-    <state width="1454" height="321" key="GridCell.Tab.0.left/0.25.1792.1021@0.25.1792.1021" timestamp="1636723403118" />
+    <state width="816" height="205" key="GridCell.Tab.0.left/0.25.1792.1021@0.25.1792.1021" timestamp="1636775682643" />
     <state width="1257" height="283" key="GridCell.Tab.0.left/0.25.1792.1023@0.25.1792.1023" timestamp="1634718955760" />
     <state width="1246" height="205" key="GridCell.Tab.0.left/0.25.1792.1024@0.25.1792.1024" timestamp="1636616675166" />
     <state width="1082" height="236" key="GridCell.Tab.0.left/0.25.1792.1026@0.25.1792.1026" timestamp="1630636004959" />
     <state width="1426" height="236" key="GridCell.Tab.0.left/0.25.1792.1029@0.25.1792.1029" timestamp="1630653354268" />
     <state width="1426" height="378" key="GridCell.Tab.0.left/0.25.1792.1030@0.25.1792.1030" timestamp="1630653942159" />
+    <state width="989" height="317" key="GridCell.Tab.0.left/0.25.1792.1032@0.25.1792.1032" timestamp="1637807447551" />
     <state width="1426" height="236" key="GridCell.Tab.0.left/0.25.1792.1033@0.25.1792.1033" timestamp="1630647726058" />
     <state width="1273" height="208" key="GridCell.Tab.0.left/0.25.1792.1035@0.25.1792.1035" timestamp="1636181302688" />
     <state width="1273" height="321" key="GridCell.Tab.0.left/0.25.1792.1036@0.25.1792.1036" timestamp="1636182264048" />
     <state width="1273" height="208" key="GridCell.Tab.0.left/0.25.1792.1037@0.25.1792.1037" timestamp="1636171723715" />
-    <state width="1454" height="321" key="GridCell.Tab.0.right" timestamp="1636723403118">
-      <screen x="0" y="25" width="1792" height="1021" />
+    <state width="989" height="317" key="GridCell.Tab.0.right" timestamp="1637807447551">
+      <screen x="0" y="25" width="1792" height="1032" />
     </state>
     <state width="1073" height="282" key="GridCell.Tab.0.right/0.25.1792.1014@0.25.1792.1014" timestamp="1634800413883" />
     <state width="1460" height="236" key="GridCell.Tab.0.right/0.25.1792.1016@0.25.1792.1016" timestamp="1631234409590" />
     <state width="1444" height="241" key="GridCell.Tab.0.right/0.25.1792.1017@0.25.1792.1017" timestamp="1635981735333" />
     <state width="906" height="283" key="GridCell.Tab.0.right/0.25.1792.1019@0.25.1792.1019" timestamp="1634699947247" />
     <state width="981" height="216" key="GridCell.Tab.0.right/0.25.1792.1020@0.25.1792.1020" timestamp="1635303053508" />
-    <state width="1454" height="321" key="GridCell.Tab.0.right/0.25.1792.1021@0.25.1792.1021" timestamp="1636723403118" />
+    <state width="816" height="205" key="GridCell.Tab.0.right/0.25.1792.1021@0.25.1792.1021" timestamp="1636775682644" />
     <state width="1257" height="283" key="GridCell.Tab.0.right/0.25.1792.1023@0.25.1792.1023" timestamp="1634718955761" />
     <state width="1246" height="205" key="GridCell.Tab.0.right/0.25.1792.1024@0.25.1792.1024" timestamp="1636616675166" />
     <state width="1082" height="236" key="GridCell.Tab.0.right/0.25.1792.1026@0.25.1792.1026" timestamp="1630636004960" />
     <state width="1426" height="236" key="GridCell.Tab.0.right/0.25.1792.1029@0.25.1792.1029" timestamp="1630653354269" />
     <state width="1426" height="378" key="GridCell.Tab.0.right/0.25.1792.1030@0.25.1792.1030" timestamp="1630653942159" />
+    <state width="989" height="317" key="GridCell.Tab.0.right/0.25.1792.1032@0.25.1792.1032" timestamp="1637807447551" />
     <state width="1426" height="236" key="GridCell.Tab.0.right/0.25.1792.1033@0.25.1792.1033" timestamp="1630647726059" />
     <state width="1273" height="208" key="GridCell.Tab.0.right/0.25.1792.1035@0.25.1792.1035" timestamp="1636181302689" />
     <state width="1273" height="321" key="GridCell.Tab.0.right/0.25.1792.1036@0.25.1792.1036" timestamp="1636182264049" />
     <state width="1273" height="208" key="GridCell.Tab.0.right/0.25.1792.1037@0.25.1792.1037" timestamp="1636171723716" />
-    <state width="1454" height="321" key="GridCell.Tab.1.bottom" timestamp="1636723403450">
-      <screen x="0" y="25" width="1792" height="1021" />
+    <state width="989" height="317" key="GridCell.Tab.1.bottom" timestamp="1637807447552">
+      <screen x="0" y="25" width="1792" height="1032" />
     </state>
     <state width="1073" height="282" key="GridCell.Tab.1.bottom/0.25.1792.1014@0.25.1792.1014" timestamp="1634800414200" />
     <state width="1052" height="378" key="GridCell.Tab.1.bottom/0.25.1792.1016@0.25.1792.1016" timestamp="1631223751022" />
@@ -313,10 +332,11 @@
     <state width="1257" height="283" key="GridCell.Tab.1.bottom/0.25.1792.1023@0.25.1792.1023" timestamp="1634718955763" />
     <state width="1246" height="321" key="GridCell.Tab.1.bottom/0.25.1792.1024@0.25.1792.1024" timestamp="1636616675149" />
     <state width="1426" height="378" key="GridCell.Tab.1.bottom/0.25.1792.1030@0.25.1792.1030" timestamp="1630653942160" />
+    <state width="989" height="317" key="GridCell.Tab.1.bottom/0.25.1792.1032@0.25.1792.1032" timestamp="1637807447552" />
     <state width="1273" height="321" key="GridCell.Tab.1.bottom/0.25.1792.1035@0.25.1792.1035" timestamp="1636170821896" />
     <state width="1273" height="321" key="GridCell.Tab.1.bottom/0.25.1792.1036@0.25.1792.1036" timestamp="1636182264050" />
-    <state width="1454" height="321" key="GridCell.Tab.1.center" timestamp="1636723403448">
-      <screen x="0" y="25" width="1792" height="1021" />
+    <state width="989" height="317" key="GridCell.Tab.1.center" timestamp="1637807447552">
+      <screen x="0" y="25" width="1792" height="1032" />
     </state>
     <state width="1073" height="282" key="GridCell.Tab.1.center/0.25.1792.1014@0.25.1792.1014" timestamp="1634800414199" />
     <state width="1052" height="378" key="GridCell.Tab.1.center/0.25.1792.1016@0.25.1792.1016" timestamp="1631223751022" />
@@ -327,10 +347,11 @@
     <state width="1257" height="283" key="GridCell.Tab.1.center/0.25.1792.1023@0.25.1792.1023" timestamp="1634718955762" />
     <state width="1246" height="321" key="GridCell.Tab.1.center/0.25.1792.1024@0.25.1792.1024" timestamp="1636616675148" />
     <state width="1426" height="378" key="GridCell.Tab.1.center/0.25.1792.1030@0.25.1792.1030" timestamp="1630653942159" />
+    <state width="989" height="317" key="GridCell.Tab.1.center/0.25.1792.1032@0.25.1792.1032" timestamp="1637807447552" />
     <state width="1273" height="321" key="GridCell.Tab.1.center/0.25.1792.1035@0.25.1792.1035" timestamp="1636170821896" />
     <state width="1273" height="321" key="GridCell.Tab.1.center/0.25.1792.1036@0.25.1792.1036" timestamp="1636182264049" />
-    <state width="1454" height="321" key="GridCell.Tab.1.left" timestamp="1636723403448">
-      <screen x="0" y="25" width="1792" height="1021" />
+    <state width="989" height="317" key="GridCell.Tab.1.left" timestamp="1637807447552">
+      <screen x="0" y="25" width="1792" height="1032" />
     </state>
     <state width="1073" height="282" key="GridCell.Tab.1.left/0.25.1792.1014@0.25.1792.1014" timestamp="1634800414199" />
     <state width="1052" height="378" key="GridCell.Tab.1.left/0.25.1792.1016@0.25.1792.1016" timestamp="1631223751022" />
@@ -341,10 +362,11 @@
     <state width="1257" height="283" key="GridCell.Tab.1.left/0.25.1792.1023@0.25.1792.1023" timestamp="1634718955762" />
     <state width="1246" height="321" key="GridCell.Tab.1.left/0.25.1792.1024@0.25.1792.1024" timestamp="1636616675148" />
     <state width="1426" height="378" key="GridCell.Tab.1.left/0.25.1792.1030@0.25.1792.1030" timestamp="1630653942159" />
+    <state width="989" height="317" key="GridCell.Tab.1.left/0.25.1792.1032@0.25.1792.1032" timestamp="1637807447552" />
     <state width="1273" height="321" key="GridCell.Tab.1.left/0.25.1792.1035@0.25.1792.1035" timestamp="1636170821895" />
     <state width="1273" height="321" key="GridCell.Tab.1.left/0.25.1792.1036@0.25.1792.1036" timestamp="1636182264049" />
-    <state width="1454" height="321" key="GridCell.Tab.1.right" timestamp="1636723403449">
-      <screen x="0" y="25" width="1792" height="1021" />
+    <state width="989" height="317" key="GridCell.Tab.1.right" timestamp="1637807447552">
+      <screen x="0" y="25" width="1792" height="1032" />
     </state>
     <state width="1073" height="282" key="GridCell.Tab.1.right/0.25.1792.1014@0.25.1792.1014" timestamp="1634800414200" />
     <state width="1052" height="378" key="GridCell.Tab.1.right/0.25.1792.1016@0.25.1792.1016" timestamp="1631223751022" />
@@ -355,6 +377,7 @@
     <state width="1257" height="283" key="GridCell.Tab.1.right/0.25.1792.1023@0.25.1792.1023" timestamp="1634718955762" />
     <state width="1246" height="321" key="GridCell.Tab.1.right/0.25.1792.1024@0.25.1792.1024" timestamp="1636616675148" />
     <state width="1426" height="378" key="GridCell.Tab.1.right/0.25.1792.1030@0.25.1792.1030" timestamp="1630653942160" />
+    <state width="989" height="317" key="GridCell.Tab.1.right/0.25.1792.1032@0.25.1792.1032" timestamp="1637807447552" />
     <state width="1273" height="321" key="GridCell.Tab.1.right/0.25.1792.1035@0.25.1792.1035" timestamp="1636170821896" />
     <state width="1273" height="321" key="GridCell.Tab.1.right/0.25.1792.1036@0.25.1792.1036" timestamp="1636182264050" />
     <state x="764" y="170" key="SettingsEditor" timestamp="1635138204254">
@@ -366,15 +389,14 @@
       <screen x="0" y="25" width="1792" height="1017" />
     </state>
     <state x="945" y="25" width="821" height="729" key="dock-window-1/0.25.1792.1017@0.25.1792.1017" timestamp="1635470975149" />
-    <state x="58" y="173" width="819" height="834" key="dock-window-1/0.25.1792.1020@0.25.1792.1020" timestamp="1628311327478" />
     <state x="882" y="52" width="544" height="700" key="dock-window-1/0.25.1792.1024@0.25.1792.1024" timestamp="1632572969788" />
     <state x="1151" y="332" key="refactoring.ChangeSignatureDialog" timestamp="1630652807378">
       <screen x="0" y="25" width="1792" height="1029" />
     </state>
     <state x="1151" y="328" key="refactoring.ChangeSignatureDialog/0.25.1792.1017@0.25.1792.1017" timestamp="1629871864127" />
     <state x="1151" y="332" key="refactoring.ChangeSignatureDialog/0.25.1792.1029@0.25.1792.1029" timestamp="1630652807378" />
-    <state x="644" y="256" width="670" height="682" key="search.everywhere.popup" timestamp="1636605048037">
-      <screen x="0" y="25" width="1792" height="1024" />
+    <state x="644" y="258" width="670" height="688" key="search.everywhere.popup" timestamp="1637555788567">
+      <screen x="0" y="25" width="1792" height="1032" />
     </state>
     <state x="644" y="254" width="670" height="676" key="search.everywhere.popup/0.25.1792.1016@0.25.1792.1016" timestamp="1631000542812" />
     <state x="644" y="254" width="670" height="677" key="search.everywhere.popup/0.25.1792.1017@0.25.1792.1017" timestamp="1635748054853" />
@@ -382,6 +404,7 @@
     <state x="644" y="255" width="670" height="678" key="search.everywhere.popup/0.25.1792.1020@0.25.1792.1020" timestamp="1635137039969" />
     <state x="644" y="255" width="670" height="680" key="search.everywhere.popup/0.25.1792.1021@0.25.1792.1021" timestamp="1634700474186" />
     <state x="644" y="256" width="670" height="682" key="search.everywhere.popup/0.25.1792.1024@0.25.1792.1024" timestamp="1636605048037" />
+    <state x="644" y="258" width="670" height="688" key="search.everywhere.popup/0.25.1792.1032@0.25.1792.1032" timestamp="1637555788567" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -4182,6 +4205,501 @@
           <url>file://$PROJECT_DIR$/1112/chartmodify.py</url>
           <line>57</line>
           <option name="timeStamp" value="1788" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1113/pillaranddam.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="1789" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="1820" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="1822" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="1823" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="1824" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="1825" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="1829" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="1830" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="1831" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="1832" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="1833" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="1834" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="1835" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="1836" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="1837" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="1838" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="1839" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>93</line>
+          <option name="timeStamp" value="1840" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="1841" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="1842" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="1843" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="1844" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>99</line>
+          <option name="timeStamp" value="1845" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="1846" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="1847" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="1848" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="1849" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="1850" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="1851" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>106</line>
+          <option name="timeStamp" value="1852" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/escape.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="1856" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1119/cardpair.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1872" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1119/cardpair.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1873" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1119/cardpair.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1874" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1119/cardpair.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="1875" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1119/cardpair.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1876" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1119/cardpair.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="1877" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1119/cardpair.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="1878" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1119/cardpair.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1879" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1119/cardpair.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="1880" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1119/cardpair.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1881" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1119/cardpair.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="1883" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1119/cardpair.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="1884" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1119/cardpair.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="1885" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1119/cardpair.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="1886" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1119/cardpair.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="1887" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1119/cardpair.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="1888" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1119/cardpair.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="1889" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pg/1.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="1890" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pg/1.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="1893" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pg/1.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="1894" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pg/1.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="1911" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pg/1.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="1912" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1120/number124.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1914" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1120/number124.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="1915" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1916" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1921" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1922" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1925" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="1926" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="1927" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1928" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="1930" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="1931" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="1932" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1933" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="1934" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="1935" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="1936" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="1937" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="1938" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="1939" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="1940" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="1941" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="1942" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="1943" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="1944" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="1945" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="1946" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="1947" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="1948" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="1949" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="1952" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1122/matrix.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="1953" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1125/gamemap.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="1954" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1125/gamemap.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="1955" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1125/gamemap.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="1956" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1125/gamemap.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="1957" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1125/gamemap.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="1958" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1125/gamemap.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="1959" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1125/gamemap.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="1960" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1125/gamemap.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="1961" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1125/gamemap.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="1962" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1125/gamemap.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="1963" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1125/gamemap.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="1964" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1125/gamemap.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="1965" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1125/gamemap.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="1966" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1125/gamemap.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="1967" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1125/gamemap.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="1968" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
